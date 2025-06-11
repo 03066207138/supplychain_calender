@@ -1,0 +1,1454 @@
+[
+  {
+    "day": 1,
+    "actions": [
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 2,
+    "actions": [
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 3,
+    "actions": [
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 4,
+    "actions": [
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 152
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 5,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 231
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 293
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 15
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 6,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 505
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 19
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 416
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 7,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 256
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 268
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 107
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 8,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 429
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 95
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 524
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 524
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 524
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 15
+        }
+      ]
+    ]
+  },
+  {
+    "day": 9,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 248
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 276
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 34
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 10,
+    "actions": [
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 309
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 11,
+    "actions": [
+      [
+        "load",
+        3
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 248
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 262
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 14
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 18
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 12,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 346
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 178
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 404
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 13,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 312
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 212
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 524
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 207
+        }
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 14,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 225
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 299
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 164
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 15,
+    "actions": [
+      [
+        "load",
+        3
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 460
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 48
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 16
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 156
+        }
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 16,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 346
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 178
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 516
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 17,
+    "actions": [
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 105
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 18,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 88
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 436
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 355
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 19,
+    "actions": [
+      [
+        "load",
+        3
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 36
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 264
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 224
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 524
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ]
+    ]
+  },
+  {
+    "day": 20,
+    "actions": [
+      [
+        "load",
+        2
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 293
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 231
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 519
+        }
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 21,
+    "actions": [
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 524
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 17
+        }
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 22,
+    "actions": [
+      [
+        "load",
+        3
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 164
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 312
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 48
+        }
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 320
+        }
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 23,
+    "actions": [
+      [
+        "load",
+        3
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 106
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 3,
+          "amount": 148
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 270
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        1
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 242
+        }
+      ],
+      [
+        "return"
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  },
+  {
+    "day": 24,
+    "actions": [
+      [
+        "load",
+        3
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 2,
+          "amount": 49
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 4,
+          "amount": 166
+        }
+      ],
+      [
+        "deliver",
+        {
+          "polygon": 18,
+          "amount": 132
+        }
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ],
+      [
+        "load",
+        0
+      ]
+    ]
+  }
+]
