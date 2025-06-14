@@ -1,4 +1,4 @@
-st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
+
 
 import streamlit as st
 from components.calendar_view import show_calendar
@@ -7,7 +7,7 @@ from utils.file_loader import load_files
 from utils.preprocess import preprocess_data
 import config
 from datetime import date
-
+st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
 # Configure page
 st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
 st.title(config.HEADER_TITLE)
