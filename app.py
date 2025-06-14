@@ -1,13 +1,15 @@
 
 
-import streamlit as st
+import streamlit as st          # ✅ MUST be first
 import config
 from components.calendar_view import show_calendar
 from components.data_display import show_selected_data
 from utils.file_loader import load_files
 from utils.preprocess import preprocess_data
 from datetime import date
+
 st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
+
 # Configure page
 st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
 st.title(config.HEADER_TITLE)
