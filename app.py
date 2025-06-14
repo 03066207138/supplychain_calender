@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 from components.calendar_view import show_calendar
 from components.data_display import show_selected_data
@@ -82,4 +82,3 @@ if calendar_value and "dateClick" in calendar_value:
 
 # Show detail for the selected date
 show_selected_data(schedule_df, deliveries_df)
->>>>>>> da4307a7d4ca3e7e27b1ef19d08ebf19ef615f79
