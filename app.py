@@ -8,7 +8,6 @@ from utils.file_loader import load_files
 from utils.preprocess import preprocess_data
 from datetime import date
 
-st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
 
 # Configure page
 st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
