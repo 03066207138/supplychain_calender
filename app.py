@@ -1,3 +1,4 @@
+st.set_page_config(page_title=config.PAGE_TITLE, layout="wide")
 
 import streamlit as st
 from components.calendar_view import show_calendar
